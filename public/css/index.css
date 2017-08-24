@@ -1,0 +1,1385 @@
+/*
+	Tamaño de las ventanas
+	col-xs-		<	768
+	col-sm-		>=768 <992
+	col-md-		>=992 <1200
+	col-lg-		>=1200
+	
+*/
+.thumbnail {
+	position: relative;
+	margin-top: 0px;
+}
+.redesi{
+	width: 5%;
+}
+#fb{
+	margin-left: 400px;
+}
+.caption {
+	position: absolute;
+	top: 70%;
+	left: 1%;
+	width: 100%;
+}
+
+.captionn {
+	height: 130px;
+	overflow: hidden;
+}
+
+.captionn h4 {
+	white-space: nowrap;
+}
+
+/*Oferta Educativa*/
+#menu-oferta-educativa a{
+	color:#FBB034;
+	text-align: center;
+}
+
+
+.oferta-educativa-seccion1{
+	margin: 0 auto;
+	max-width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	text-align: justify;
+	margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+.oferta-educativa-seccion1 p{
+	color: #4F1F91;
+	text-align: justify;
+}
+.oferta-educativa-seccion1 h1{
+	color: #F50003;
+}
+#fila-seccion-que-es div a label{
+	text-decoration: none;
+}
+
+
+#seccion-plan-cuatrimestral{
+	background-color: #FFFFFF;
+	max-width: 100%;
+	text-align: center;
+	color: #4F1F91;
+}
+
+/*Oferta Educativa*/
+
+
+	body { padding-top: 35px; }
+
+
+#menu-principal{
+	font-family: '__Franklin Gothic Book_5';
+	font-size:16px;
+}
+
+ul.nav li:hover{
+	background-color: #FBB034;
+	color:#4F1F91;
+}
+
+a#titulo:hover,#bs-example-navbar-collapse-1 > ul li.titulo a:hover{
+	color:#4F1F91;
+}
+
+li.dropdown > a#drop2{
+	color:#FBB034;
+}
+
+
+a#drop2,a#drop2:hover,#fila-seccion-menu-becas > ul li.drop2 a:hover{
+	color:#4F1F91;
+}
+
+a.menu-becas{
+	color:#FBB034;
+}
+
+a.menu-nosotros{
+	color:#FBB034;
+}
+
+li.dropdown > a#drop2:hover{
+	color:#4F1F91;
+}
+
+li.open > a#drop2{
+	color:#4F1F91;
+	background: #FBB034;
+}
+
+
+
+#fila-seccion-quienes-somos{
+	background-color: #4F1F91;
+	color:#FBB034;
+	text-align: center;
+	padding:15px;
+	font-size:18px;
+	cursor: pointer;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+#fila-seccion-menu-noticias{
+	background-color: #4F1F91;
+	color:#FBB034;
+	text-align: center;
+	padding:15px;
+	font-size:18px;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+#fila-seccion-menu-noticias div a{
+	color:#FBB034;
+}
+
+#fila-seccion-quienes-somos-explicacion{
+	background-color: #4F1F91;
+	color:#FFF;
+	padding-left:50px;
+	padding-right:50px;
+	padding-top:15px;
+	padding-bottom: 15px;
+	font-size:16px;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+#fila-seccion-quienes-somos-explicacion b{
+	color:#FBB034;
+	font-size:17px;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+
+
+
+
+
+#fila-seccion-noticias-y-eventos{
+	background-color: #FBB034;
+	color:#F50003;
+	text-align: center;
+	padding:15px;
+	font-size:24px;
+	font-family: '__Franklin Gothic Medium_5';
+}
+#fila-seccion-noticias-y-eventos-secciones{
+	background-color: #FBB034;
+	color:#F50003;
+	text-align: center;
+	padding:30px;
+	font-size:18px;
+	font-family: '__Franklin Gothic Book_5';
+}
+
+
+#titulo-noticias-y-eventos{
+	color:#F50003;
+	background-color: #FBB034;
+	text-align: center;
+	padding:15px;
+	font-size:24px;
+	font-family: '__Franklin Gothic Heavy_5';
+}
+
+
+#noticias-y-eventos{
+background-color: #FBB034;
+	color:#F50003;
+	text-align: center;
+	padding:30px;
+	font-size:18px;
+	font-family: '__Franklin Gothic Book_5';
+}
+
+
+#noticias-y-eventos h3{
+	color:#F50003;
+	font-family: '__Franklin Gothic Heavy_5';
+}
+
+#noticias-y-eventos p{
+	text-decoration: none;
+	color:#4F1F91;
+	text-align: justify;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+
+#fila-seccion-paginas-principales h3{
+	color:#F50003;
+	font-family: '__Franklin Gothic Heavy_5';
+}
+#fila-seccion-paginas-principales h3 a{
+	color:#F50003;
+	font-family: '__Franklin Gothic Medium_5';
+}
+#fila-seccion-paginas-principales a{
+	text-decoration: none;
+	color:#4F1F91;
+	font-family: '__Franklin Gothic Medium_5';
+}
+#fila-seccion-paginas-principales a.link:hover{
+	color:#FBB034;
+}
+#fila-seccion-paginas-principales-foto-derecha{
+	background: url("../img/secciones-index/lateral-derecho.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+#fila-seccion-paginas-becas h3{
+	color:#F50003;
+	text-align: center;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+
+#fila-seccion-paginas-becas h1{
+	color:#F50003;
+	text-align: center;
+	font-family: '__Franklin Gothic Heavy_5';
+}
+
+
+#fila-seccion-paginas-becas a{
+	text-decoration: none;
+	color:#4F1F91;
+	text-align: center;
+	font-family: '__Franklin Gothic Medium_5';
+}
+#fila-seccion-paginas-becas a.link:hover{
+	color:#FBB034;
+	text-align: center;
+}
+
+#fila-seccion-menu-becas{
+	text-align: center;
+}
+
+#fila-seccion-paginas-becas-contenido{
+	color:#4F1F91;
+	text-align: center;
+	font-family: '__Franklin Gothic Heavy_5';
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-bottom: 10px;
+}
+
+#fila-seccion-paginas-nosotros h3{
+	color:#F50003;
+	text-align: center;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+
+#fila-seccion-paginas-nosotros h1{
+	color:#F50003;
+	text-align: center;
+	font-family: '__Franklin Gothic Heavy_5';
+}
+
+
+#fila-seccion-paginas-nosotros a{
+	text-decoration: none;
+	color:#4F1F91;
+	text-align: center;
+	font-family: '__Franklin Gothic Medium_5';
+}
+#fila-seccion-paginas-nosotros a.link:hover{
+	color:#FBB034;
+	text-align: center;
+}
+
+#fila-seccion-menu-nosotros{
+	text-align: center;
+}
+
+#fila-seccion-paginas-nosotros-contenido{
+	color:#4F1F91;
+	text-align: center;
+	font-family: '__Franklin Gothic Heavy_5';
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-bottom: 10px;
+}
+
+#noticia_cont{
+	height: 500px;
+}
+
+
+#fila-seccion-visitanos{
+	background-color: #4F1F91;
+	color:#FFF;
+}
+#fila-seccion-visitanos h1{
+	color:#FBB034;
+	font-family: '__Franklin Gothic Medium_5';
+}
+#fila-seccion-visitanos-izquierda{
+	/*background: url("../img/seccion-visitanos/mapa.jpg");
+	background-position: center;
+	cursor: pointer;*/
+	padding: 0px;
+	font-family: '__Franklin Gothic Book_5';
+}
+#fila-seccion-visitanos-derecha{
+	height:300px;
+}
+#fila-seccion-visitanos-derecha-iconos{
+	padding-top: 10px;
+	vertical-align:central middle; text-align:center;
+}
+
+
+
+
+
+/*seccion de convocatorias*/
+
+#fila-seccion-menu-convocatoria{
+	background-color: #4F1F91;
+	color:#FBB034;
+	text-align: center;
+	padding:15px;
+	font-size:18px;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+#fila-seccion-menu-convocatoria div a{
+	color:#FBB034;
+}
+
+#titulo-convocatoria{
+	color:#F50003;
+	background-color: #FBB034;
+	text-align: center;
+	padding:15px;
+	font-size:24px;
+	font-family: '__Franklin Gothic Heavy_5';
+}
+
+
+#convocatoria{
+background-color: #FBB034;
+	color:#F50003;
+	text-align: center;
+	padding:30px;
+	font-size:18px;
+	font-family: '__Franklin Gothic Book_5';
+}
+
+
+#convocatoria h3{
+	color:#F50003;
+	font-family: '__Franklin Gothic Heavy_5';
+}
+
+#convocatoria p{
+	text-decoration: none;
+	color:#4F1F91;
+	text-align: justify;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+
+
+#fila-seccion-menu-becas{
+	background-color: #4F1F91;
+	color:#FBB034;
+	text-align: center;
+	padding:15px;
+	font-size:18px;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+#fila-seccion-menu-becas div a label{
+	
+}
+
+
+#fila-seccion-menu-nosotros{
+	background-color: #4F1F91;
+	color:#FBB034;
+	text-align: center;
+	padding:15px;
+	font-size:18px;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+#fila-seccion-menu-nosotros div a label{
+	
+}
+
+
+#conv-avisos {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	position: relative;
+	display: inline-block;
+	float: right;
+	width: 22%;
+	height: 100%;
+}
+
+#extra {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	position: relative;
+	display: inline-table;	
+	height: 330px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 2px solid rgb(79,31,145);
+	border-radius: 10px;
+}
+
+
+#extra-licenciatura {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	position: relative;
+	display: inline-table;	
+	height: 200px;
+	width: 20%;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 2px solid rgb(251,176,52);
+	border-radius: 10px;
+}
+
+#extra-licenciatura h4{
+	font-family: '__Franklin Gothic Heavy_5';
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#extra-licenciatura a{
+	color: #FFFFFF;
+}
+
+#extra h4{
+	font-family: '__Franklin Gothic Heavy_5';
+	color: #F50003;
+	text-align: center;
+}
+
+#fila-seccion-paginas-becas-contenido-extra{	
+	text-align: justify;
+	font-family: '__Franklin Gothic Medium_5';
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-bottom: 10px;
+}
+
+#fila-seccion-paginas-becas-contenido-extra-licenciatura{	
+	font-family: '__Franklin Gothic Medium_5';
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+
+#fila-seccion-paginas-nosotros-contenido-extra{	
+	text-align: justify;
+	font-family: '__Franklin Gothic Medium_5';
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-bottom: 10px;
+}
+
+#fila-seccion-paginas-nosotros-contenido-extra-licenciatura{	
+	font-family: '__Franklin Gothic Medium_5';
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+
+
+
+#principal {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	position: relative;
+	display: inline-block;
+	float: left;
+	width: 74%;
+	height: 100%;
+	padding-bottom: 10px;
+}
+
+
+#conv {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	position: relative;	
+	width: 90%;
+	height: 35%;
+	border: 2px solid rgb(79,31,145);
+	border-radius: 10px;
+	background-color: #FBB034;	
+	text-align: center;
+	max-height: 50%;
+
+}
+
+
+#avi {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	position: relative;
+	width: 90%;
+	height: 35%;
+	border: 2px solid rgb(79,31,145);
+	border-radius: 10px;
+	background-color: #FBB034;	
+	text-align: center;
+	max-height: 50%;
+}
+
+.conv-avisos {
+	color: #F50003;
+	font-family: '__Franklin Gothic Heavy_5';
+}
+
+
+.titulos-conv-avi {
+	color: #000000;
+	font-family: '__Franklin Gothic Heavy_5';
+}
+
+#contenido-conv {
+	color: #000000;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+
+
+
+/*seccion de becas licenciatura*/
+
+#becasSeccion1 {
+	background-color: #FFFFFF;
+	max-width: 100%;
+	text-align: center;
+	color: #4F1F91;
+}
+
+#becasSeccion2 {
+	background-color: #4F1F91;
+	max-width: 100%;
+	text-align: center;
+	color: #FBB034;
+}
+
+#becasSeccion3 {
+	background-color: #FBB034;
+	max-width: 100%;
+	text-align: center;
+	color: #F50003;
+
+}
+
+#becas-contenido {
+	margin: 0 auto;
+	max-width: 80%;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	text-align: justify;	
+
+}
+
+
+#becasSeccion1 h1{
+	color: #F50003;
+}
+
+
+
+#becasSeccion2 h1{
+	color: #FFFFFF;
+}
+
+#becasSeccion3 h1{
+	color: #4F1F91;
+
+}
+
+
+/*seccion de nosotros*/
+
+#nosotrosSeccion1 {
+	background-color: #FFFFFF;
+	max-width: 100%;
+	text-align: center;
+	color: #4F1F91;
+}
+
+#nosotrosSeccion2 {
+	background-color: #4F1F91;
+	max-width: 100%;
+	text-align: center;
+	color: #FBB034;
+}
+
+#nosotrosSeccion3 {
+	background-color: #FBB034;
+	max-width: 100%;
+	text-align: center;
+	color: #F50003;
+
+}
+
+#nosotros-contenido {
+	margin: 0 auto;
+	max-width: 80%;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	text-align: justify;	
+
+}
+
+
+#nosotrosSeccion1 h1{
+	color: #F50003;
+}
+
+
+
+#nosotrosSeccion2 h1{
+	color: #FFFFFF;
+}
+
+#nosotrosSeccion3 h1{
+	color: #4F1F91;
+
+}
+
+#extra-sitios {
+	
+	position: relative;
+	display: inline-block;	
+	height: 500px;
+	padding-left: 10px;
+	padding-right: 10px;	
+	border: 2px solid rgb(251,176,52);
+	border-radius: 10px;
+	overflow: auto;
+}
+
+#extra-sitios h4{
+	font-family: '__Franklin Gothic Heavy_5';
+	color: #4F1F91;
+	text-align: center;
+}
+
+#extra-sitios a{
+	color:#4F1F91;
+}
+#becasSeccion1 a{
+	color: #F50003;
+}
+
+
+
+#fila-pie-pagina{
+	padding:10px;
+	font-size:12px;
+	text-align:center;
+	font-family: '__Franklin Gothic Book_5';
+	background-color: #4F1F91;
+	color:#FFF;
+}
+#fila-pie-pagina strong{
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:14px;
+	font-family: '__Franklin Gothic Book_5';
+}
+#fila-pie-pagina-iconos{
+	padding:10px;
+	text-align:center;
+}
+
+
+/*medias queries*/
+@media (min-width: 1300px) {
+  .navbar-default{
+   height: 125px;
+  }
+}
+
+@media (min-width: 1100px) and (max-width: 1300px) {
+  .navbar-default{
+   height: 125px;
+   padding-left: auto;
+   padding-right: auto;
+  }
+}
+
+@media (min-width: 1040px) and (max-width: 1100px) {
+  .navbar-default{
+   height: 88px;
+   padding-left: auto;
+   padding-right: auto;
+  }
+}
+
+@media (min-width: 760px) and (max-width: 1040px) {
+  .navbar-default{
+   height: 130px;
+   padding-left: auto;
+   padding-right: auto;
+  }
+}
+
+#marcorojo{
+	background-color: #F50003;
+	color:#FBB034;
+	text-align: center;
+	padding:23px;
+	font-size:18px;
+	font-family: '__Franklin Gothic Medium_5';
+	height: 15px;
+	width: 80%;
+}
+
+#marcoamarillo{
+	background-color: #FBB034;
+	color:#FBB034;
+	text-align: center;
+	padding:13px;
+	font-size:18px;
+	font-family: '__Franklin Gothic Medium_5';
+	height: 15px;
+	width: 20%;
+}
+
+#marco, #marco1{
+	background-color: #4F1F91;
+	color:#FBB034;
+	text-align: center;
+	padding:0px;
+	font-size:27px;
+	font-family: '__Franklin Gothic Medium_5';
+	height: 35px;
+	letter-spacing: 0.2em
+}
+
+
+
+
+
+
+img.logo {
+	background-color: #FBB034;
+	height: auto;
+	width: auto;
+	margin-top: auto;
+
+}
+
+
+img.logo1 {
+	background-color: #FBB034;
+	height: auto;
+	width: auto;
+	margin-top: auto;
+
+}
+
+
+
+
+/*medias queries*/
+@media (min-width: 1550px) {
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    height: auto;
+    margin-top: 0px;
+    max-width: 100%;
+}
+	  #margen{
+	   height: auto;	
+	   padding-left: 260px;
+	   padding-right: 260px;
+	}
+	#marcox {
+		display: none;
+	}
+	#marco1 {
+		display: none;
+	}
+
+	#imagen2 {
+		display: none;
+	}
+}
+@media (max-width: 768px ){
+	.sig{
+		width: 100%;
+	}
+}
+@media (max-width: 768px ){
+	.sig{
+		width: 100%;
+	}
+}
+
+@media (max-width:390px) {
+	.caption {
+		position: absolute;
+		top: 60%;
+		left: 1%;
+		width: 100%;
+	}
+}
+@media (max-width:651px) {
+	.caption {
+		position: absolute;
+		top: 80%;
+		left: 1%;
+		width: 100%;
+	}
+}
+@media (max-width: 992px ){
+	.caption {
+		position: absolute;
+		top: 60%;
+		left: 1%;
+		width: 100%;
+	}
+	.sig{
+		width: 100%;
+	}
+	.redesi{
+		margin-right:30px ;
+		margin-bottom: 30px;
+		width: 15%;
+	}
+	#fb{
+		margin-left: 25px;
+	}
+	p{
+		color: #000;
+	}
+
+}
+
+
+
+@media (min-width: 651px) and (max-width: 1098px) {
+	.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+		display: block;
+		height: auto;
+		margin-top: 0px;
+		max-width: 100%;
+	}
+
+
+}
+
+
+@media (min-width: 1250px) and (max-width: 1550px) {
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    height: auto;
+    margin-top: 0px;
+    max-width: 100%;
+}
+  	#margen{
+		height: auto;	
+	   	padding-left: 120px;
+	   	padding-right: 120px;
+	}
+	#marco1 {
+		display: none;
+	}
+	#marcox {
+		display: none;
+	}
+
+	#imagen2 {
+		display: none;
+	}
+	.redesi{
+		margin-right:100px ;
+		margin-bottom: 30px;
+	}
+	#fb{
+		margin-left: 200px;
+	}
+}
+
+
+
+
+@media (min-width: 1100px) and (max-width: 1250px) {
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    height: auto;
+    margin-top: 0px;
+    max-width: 100%;
+}
+  #margen{
+	height: auto;	
+   padding-left: 50px;
+   padding-right: 50px;
+}
+#marco1 {
+		display: none;
+	}
+	#marcox {
+		display: none;
+	}
+
+	#imagen2 {
+		display: none;
+	}
+
+
+
+}
+
+
+
+@media (max-width: 1100px) {
+
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+  
+	#marcox {
+			display: none;
+	}
+
+	#marco{
+		display: none;	
+	}
+
+	#imagen2{
+		display: none;	
+	}
+
+	#imagen{
+		display: none;		
+	}
+
+	#marcorojo{
+		background-color: #F50003;
+		color:#FBB034;
+		text-align: center;
+		padding:9px;
+		font-size:13px;
+		font-family: '__Franklin Gothic Medium_5';
+		height: 5px;
+		width: 60%;
+	}
+
+	#marcoamarillo{
+		background-color: #FBB034;
+		color:#FBB034;
+		text-align: center;
+		padding:9px;
+		font-size:13px;
+		font-family: '__Franklin Gothic Medium_5';
+		height: 5px;
+		width: 40%;
+	}
+	#noticia_cont{
+  			height: 650px;
+  	}
+
+}
+
+@media (max-width: 650px) {
+
+	body { padding-top: 5px; }
+
+	.caption {
+		position: absolute;
+		top: 50%;
+		left: 1%;
+		width: 100%;
+	}
+
+
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    height: auto;
+    margin-top: 0px;
+    max-width: 100%;
+}
+  
+	#marcox {
+			display: none;
+	}
+
+	#marco{
+		display: none;	
+	}
+
+	#imagen2{
+		display: none;	
+	}
+
+	#imagen{
+		display: none;		
+	}
+
+	#marcorojo{
+		background-color: #F50003;
+		color:#FBB034;
+		text-align: center;
+		padding:9px;
+		font-size:13px;
+		font-family: '__Franklin Gothic Medium_5';
+		height: 5px;
+		width: 60%;
+	}
+
+	#marcoamarillo{
+		background-color: #FBB034;
+		color:#FBB034;
+		text-align: center;
+		padding:9px;
+		font-size:13px;
+		font-family: '__Franklin Gothic Medium_5';
+		height: 5px;
+		width: 40%;
+	}
+
+
+
+	#fila-seccion-paginas-becas-contenido{
+		color:#4F1F91;
+		text-align: center;
+		font-family: '__Franklin Gothic Heavy_5';
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-bottom: 10px;
+	}
+	#fila-seccion-paginas-becas-contenido-extra{
+		
+		text-align: justify;
+		font-family: '__Franklin Gothic Heavy_5';
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-bottom: 10px;
+	}
+
+
+
+	#conv-avisos {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
+		position: relative;
+		display: block;
+		float: left;
+		width: 100%;
+		height: auto;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	#extra {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
+		position: relative;
+		display: block;
+		float: left;
+		width: 100%;
+		height: auto;
+		padding-left: 10px;
+		padding-right: 10px;
+		border: 2px solid rgb(79,31,145);
+		border-radius: 10px;
+	}
+
+
+	#extra-licenciatura {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
+		position: relative;
+		display: block;	
+		height: auto;
+		width: 100%;
+		padding-left: 10px;
+		padding-right: 10px;
+		border: 2px solid rgb(251,176,52);
+		border-radius: 10px;
+	}
+
+
+	#principal {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
+		position: relative;
+		display: block;
+		width: 100%;
+		height: 50%;
+		padding-bottom: 10px;
+	}
+
+
+	#conv {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
+		position: relative;	
+		width: 100%;
+		height: 45%;
+		border: 2px solid rgb(79,31,145);
+		border-radius: 10px;
+		background-color: #FBB034;	
+		text-align: center;
+		max-height: 50%;
+
+	}
+
+
+	#avi {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
+		position: relative;
+		width: 100%;
+		height: 45%;
+		border: 2px solid rgb(79,31,145);
+		border-radius: 10px;
+		background-color: #FBB034;	
+		text-align: center;
+		max-height: 50%;
+	}
+
+
+}
+
+
+
+
+
+
+/*sección de sitios de interes*/
+#fila-seccion-menu-sitios{
+	background-color: #4F1F91;
+	color:#FBB034;
+	text-align: center;
+	padding:15px;
+	font-size:18px;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+#fila-seccion-menu-sitios div a{
+	color:#FBB034;
+}
+
+#titulo-sitios{
+	color:#F50003;
+	background-color: #FBB034;
+	text-align: center;
+	padding:15px;
+	font-size:24px;
+	font-family: '__Franklin Gothic Heavy_5';
+}
+
+
+#sitios{
+background-color: #FBB034;
+	color:#F50003;
+	text-align: center;
+	padding:30px;
+	font-size:18px;
+	font-family: '__Franklin Gothic Book_5';
+}
+
+
+#sitios h3{
+	color:#F50003;
+	font-family: '__Franklin Gothic Heavy_5';
+}
+
+#sitios p{
+	text-decoration: none;
+	color:#4F1F91;
+	text-align: justify;
+	font-family: '__Franklin Gothic Medium_5';
+}
+
+
+
+
+/*
+#contenido #wrap #panelCentral #contCentral #conv-avisos #conv {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	position: relative;
+	display: block;
+	display: block;
+	width: 100%;
+	height: 35%;
+	border: 2px solid rgb(79,31,145);
+	border-radius: 10px;
+}
+
+#contenido #wrap #panelCentral #contCentral #conv-avisos #avi {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+	height: 35%;
+	border: 2px solid rgb(79,31,145);
+	border-radius: 10px;	
+}
+
+#contenido #wrap #panelCentral #contCentral #conv-avisos #conv #tituloConvocatoria {
+	width: 100%;
+	height: 10%;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	background-color: rgb(251,176,52);
+	color: rgb(79,31,145);
+	text-align: center;
+	font-weight: bold;
+}
+
+#contenido #wrap #panelCentral #contCentral #conv-avisos #conv #contenidoConvocatoria {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	position: relative;
+	display: block;
+	width: 100%;
+	height: 80%;
+	overflow: auto;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#contenido #wrap #panelCentral #contCentral #conv-avisos #avi #tituloAvisos {
+	width: 100%;
+	height: 10%;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	background-color: rgb(251,176,52);
+	color: rgb(79,31,145);
+	text-align: center;
+	font-weight: bold;
+}
+
+#contenido #wrap #panelCentral #contCentral #conv-avisos #avi #contenidoAvisos {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	position: relative;
+	display: block;
+	width: 100%;
+	height: 80%;
+	overflow: auto;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+*/
+
+
+
+
+
+
+
+
+
+@font-face
+{
+	font-family: '__Franklin Gothic Book_5';
+	src: url('../fonts/franklingothic-book_gdi.eot');
+	src: local('☺'), url('../fonts/franklingothic-book_gdi.woff') format('woff'), url('../fonts/franklingothic-book_gdi.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Adobe Caslon Pro_5';
+	src: url('../fonts/acaslonpro-regular_gdi.eot');
+	src: local('☺'), url('../fonts/acaslonpro-regular_gdi.woff') format('woff'), url('../fonts/acaslonpro-regular_gdi.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Franklin Gothic Heavy_5';
+	src: url('../fonts/franklingothic-heavy_gdi.eot');
+	src: local('☺'), url('../fonts/franklingothic-heavy_gdi.woff') format('woff'), url('../fonts/franklingothic-heavy_gdi.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Franklin Gothic Medium_5';
+	src: url('../fonts/franklingothic-medium_gdi.eot');
+	src: local('☺'), url('../fonts/franklingothic-medium_gdi.woff') format('woff'), url('../fonts/franklingothic-medium_gdi.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@media (max-width: 500px) {
+	.caption {
+		position: absolute;
+		top: 30%;
+		left: 1%;
+		width: 100%;
+	}
+}
+
+@media (max-width: 375px) {
+	.tit{
+		font-size: 18px;
+	}
+	.caption {
+		position: absolute;
+		top: 20%;
+		left: 1%;
+		width: 75%;
+	}
+}
